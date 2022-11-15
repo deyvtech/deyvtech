@@ -2,7 +2,7 @@
  
 <h1>Hi there 👋</h1>
 <h1 align="center">I'm Dave Lexter Supsup</h1>
-<h3 align="center">A passionate junior frontend web developer from Philippines</h3>
+<h3 align="center"> Frontend Web Developer from Philippines</h3>
 <br>
 
 ---
