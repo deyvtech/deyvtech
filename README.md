@@ -1,6 +1,6 @@
-<!-- ![Banner (1400 × 200 px)](https://user-images.githubusercontent.com/92702144/197099573-e6e23d18-684d-4827-8c9b-e1aac4d32ada.jpg) -->
+![Banner (1400 × 200 px)](https://user-images.githubusercontent.com/92702144/197099573-e6e23d18-684d-4827-8c9b-e1aac4d32ada.jpg) -->
  
-<!-- <h1>Hi there 👋</h1>
+<h1>Hi there 👋</h1>
 <h1 align="center">I'm Dave Lexter Supsup</h1>
 <h3 align="center"> Frontend Web Developer from Philippines</h3>
 <br>
@@ -36,10 +36,8 @@
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=Flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-ACER_NITRO_5-0078D6?style=Flat-square&logo=windows&logoColor=white" />
 
 
-<!--  Stats
+Stats
 
-![deyctech's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvtech&theme=midnight-purple&show_icons=true&count_private=true) -->
-
- - Most Used Languages
+![deyctech's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvtech&theme=midnight-purple&show_icons=true&count_private=true) 
 
 ![deyctech's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=deyvtech&show_icons=true&locale=en&layout=compact)
