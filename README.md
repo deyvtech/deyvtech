@@ -36,7 +36,6 @@
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=Flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-ACER_NITRO_5-0078D6?style=Flat-square&logo=windows&logoColor=white" />
 
 
-Stats
 
 ![deyctech's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvtech&theme=midnight-purple&show_icons=true&count_private=true) 
 
