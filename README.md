@@ -9,7 +9,7 @@ const userInfo = {
 }
 ```
 
-## <em>I'm currently Learning:</em>
+<!--- ## <em>I'm currently Learning:</em>
 <p>👩🏾‍💻 Skills</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=Flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=Flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=Flat-square&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=Flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=Flat-square&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=Flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=Flat-square&logo=typescript&logoColor=white" />
 </p>
@@ -31,7 +31,7 @@ const userInfo = {
 - <img src="https://img.shields.io/badge/freecodecamp-27273D?style=Flat-square&logo=freecodecamp&logoColor=white" />
 - <img src="https://img.shields.io/badge/Udemy-A100FF?style=Flat-square&logo=Udemy&logoColor=white" />
 - <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=Flat-square&logo=mdnwebdocs&logoColor=white" />
-
+-->
 ## <em>Workspace Specs:</em>
 <img src="https://img.shields.io/badge/NVIDIA-RTX4070Super-76B900?style=Flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-Desktop-0078D6?style=Flat-square&logo=windows&logoColor=white" />
 
