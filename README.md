@@ -5,10 +5,6 @@ const userInfo = {
   dev: Front End Developer,
   code: [JavaScript, PHP],
   tools: ["WordPress", "jQuery", "Bootstrap"],
-  techCommunities: {
-    member: "WordPress Community",
-    contributor: "GitHub"
-  }
 }
 ```
 
