@@ -1,6 +1,6 @@
-<h2>Hi there 👋</h2>
-<h2>I'm Dave Lexter Supsup</h2>
-<h1> Frontend Web Developer from Philippines</h1>
+## Hi there 👋
+## I'm Dave Lexter Supsup
+# Frontend Web Developer from Philippines
 <br>
 
 ---
