@@ -1,11 +1,12 @@
 # Hi there 👋
-I'm Dave Lexter Supsup
-Frontend Web Developer from Philippines
 <br>
 
 ---
 
 <br>
+I'm Dave Lexter Supsup <br>
+Frontend Web Developer from Philippines
+
 
 ## I'm currently Learning :
 ### 👩🏾‍💻 Skills
