@@ -33,7 +33,7 @@
 - <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=Flat-square&logo=mdnwebdocs&logoColor=white" />
 
 ## Workspace Specs :
-<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=Flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-ACER_NITRO_5-0078D6?style=Flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-RTX4070Super-76B900?style=Flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-ACER_NITRO_5-0078D6?style=Flat-square&logo=windows&logoColor=white" />
 
 
 
