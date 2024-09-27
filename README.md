@@ -1,6 +1,18 @@
 # Hi there! I'm Dave Lexter Supsup <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32"></picture> 
 
-<p><em>Frontend Web Developer from Philippines</em></p>
+```javascript
+const user = {
+  pronouns: "they" | "them",
+  code: ["JavaScript", "HTML", "CSS", "PHP"],
+  tools: ["WordPress", "jQuery", "Bootstrap", "Sass", "Webpack"],
+  architecture: ["component-based", "responsive design", "theme development"],
+  techCommunities: {
+    member: "WordPress Community",
+    contributor: "GitHub"
+  },
+  challenge: "I am doing the #100DaysOfCode challenge focused on WordPress and front-end development."
+}
+```
 
 ## <em>I'm currently Learning:</em>
 <p>👩🏾‍💻 Skills</p>
