@@ -1,8 +1,6 @@
-# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32"></picture>  Hi there!
+# Hi there! I'm Dave Lexter Supsup <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32"></picture> 
 
-I'm Dave Lexter Supsup <br>
-Frontend Web Developer from Philippines
-
+<p><em>Frontend Web Developer from Philippines</em></p>
 
 ## I'm currently Learning :
 👩🏾‍💻 Skills
