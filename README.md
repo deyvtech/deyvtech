@@ -2,8 +2,8 @@
 
 ```javascript
 const userInfo = {
-  dev: 'Front End Developer',
-  code: ["JavaScript", "HTML", "CSS", "PHP"],
+  dev: Front End Developer,
+  code: [JavaScript, PHP],
   tools: ["WordPress", "jQuery", "Bootstrap"],
   techCommunities: {
     member: "WordPress Community",
