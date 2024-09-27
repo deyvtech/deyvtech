@@ -1,13 +1,14 @@
 # Hi there! I'm Dave Lexter Supsup <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32"></picture> 
 
 ```javascript
-const user = {
+const userInfo = {
+  dev: 'Front End Developer',
   code: ["JavaScript", "HTML", "CSS", "PHP"],
   tools: ["WordPress", "jQuery", "Bootstrap"],
   techCommunities: {
     member: "WordPress Community",
     contributor: "GitHub"
-  },
+  }
 }
 ```
 
