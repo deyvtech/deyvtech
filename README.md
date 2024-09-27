@@ -2,7 +2,9 @@
 <h2>I'm Dave Lexter Supsup</h2>
 <h1> Frontend Web Developer from Philippines</h1>
 <br>
+
 ---
+
 <br>
 
 ## I'm currently Learning :
