@@ -1,6 +1,6 @@
-## Hi there 👋
-## I'm Dave Lexter Supsup
-# Frontend Web Developer from Philippines
+# Hi there 👋
+I'm Dave Lexter Supsup
+Frontend Web Developer from Philippines
 <br>
 
 ---
