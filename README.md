@@ -18,14 +18,14 @@
 <p>✍🏻 IDE</p>
 <p><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=Flat-square&logo=visual%20studio&logoColor=white" /></p>
 
-## Sources of my Knowledge :
+## <em>Sources of my Knowledge:</em>
 
 - <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=Flat-square&logo=codecademy&logoColor=303347" />
 - <img src="https://img.shields.io/badge/freecodecamp-27273D?style=Flat-square&logo=freecodecamp&logoColor=white" />
 - <img src="https://img.shields.io/badge/Udemy-A100FF?style=Flat-square&logo=Udemy&logoColor=white" />
 - <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=Flat-square&logo=mdnwebdocs&logoColor=white" />
 
-## Workspace Specs :
+## <em>Workspace Specs:</em>
 <img src="https://img.shields.io/badge/NVIDIA-RTX4070Super-76B900?style=Flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-Desktop-0078D6?style=Flat-square&logo=windows&logoColor=white" />
 
 
