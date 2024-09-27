@@ -2,15 +2,12 @@
 
 ```javascript
 const user = {
-  pronouns: "they" | "them",
   code: ["JavaScript", "HTML", "CSS", "PHP"],
-  tools: ["WordPress", "jQuery", "Bootstrap", "Sass", "Webpack"],
-  architecture: ["component-based", "responsive design", "theme development"],
+  tools: ["WordPress", "jQuery", "Bootstrap"],
   techCommunities: {
     member: "WordPress Community",
     contributor: "GitHub"
   },
-  challenge: "I am doing the #100DaysOfCode challenge focused on WordPress and front-end development."
 }
 ```
 
