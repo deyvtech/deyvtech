@@ -30,6 +30,6 @@
 
 
 
-![deyctech's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvtech&theme=midnight-purple&show_icons=true&count_private=true) 
+[//]: ![deyctech's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvtech&theme=midnight-purple&show_icons=true&count_private=true) 
 
-![deyctech's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=deyvtech&show_icons=true&locale=en&layout=compact)
+[//]: ![deyctech's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=deyvtech&show_icons=true&locale=en&layout=compact)
