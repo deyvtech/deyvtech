@@ -2,8 +2,8 @@
 
 <p><em>Frontend Web Developer from Philippines</em></p>
 
-## I'm currently Learning :
-👩🏾‍💻 Skills
+## <em>I'm currently Learning:</em>
+<p>👩🏾‍💻 Skills</p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=Flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=Flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=Flat-square&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=Flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=Flat-square&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=Flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=Flat-square&logo=typescript&logoColor=white" />
 
 Software
