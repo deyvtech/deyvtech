@@ -5,7 +5,8 @@ const userInfo = {
   name: Dave Lexter Supsup,
   dev: Full Stack Developer,
   code: [JavaScript, PHP, "CSS", "HTML", "SQL"],
-  tools: ["WordPress", "jQuery", "Bootstrap", "NodeJS/ExpressJS", "TailwindCSS", "ReactJS/NextJS", "Postgesql/Supabase", "Docker"],
+  tools: ["WordPress", "jQuery", "Bootstrap", "NodeJS/ExpressJS", "TailwindCSS", 
+  "ReactJS/NextJS", "Postgesql/Supabase", "Docker"],
 }
 ```
 
